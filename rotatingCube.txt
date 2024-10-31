@@ -1,2 +1,2 @@
-Created a Rotating Cube from some inspiration from a youtube video I saw on making a spinning donut.
-Shoutout Lex for the video: https://www.youtube.com/watch?v=DEqXNfs_HhY&pp=ygUTc3Bpbm5pbmcgdGF1cnVzIGMrKw%3D%3D
+Created a rotating pyramid from some inspiration from a youtube video I saw on making a spinning donut.  I used C++ to do this.
+Shoutout Lex for the great video: https://www.youtube.com/watch?v=DEqXNfs_HhY&pp=ygUTc3Bpbm5pbmcgdGF1cnVzIGMrKw%3D%3D
